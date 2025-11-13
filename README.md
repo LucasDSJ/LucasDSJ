@@ -37,7 +37,7 @@
   <img width="12" />
 </div>
 
-<h4>Algumas estatísticas:</h4>
+<h3 align="center">📊 Algumas estatísticas:</h3>
 <div align="center">
   <a href="https://github.com/LucasDSJ">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDSJ&layout=compact&theme=radical" alt="Top Langs" />
