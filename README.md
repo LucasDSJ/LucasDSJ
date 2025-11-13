@@ -3,6 +3,7 @@
 <div align="center">
   <a href="https://github.com/LucasDSJ">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDSJ&layout=compact&theme=radical" alt="Top Langs" />
+    - 🔐 [Gerador de Senhas em Kotlin](https://github/LucasDSJ/Gerador-de-bio)
   </a>
 </div>
 
