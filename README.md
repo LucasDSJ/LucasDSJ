@@ -53,14 +53,15 @@
   <a href="https://open.spotify.com/user/31moxivd66e6d6ieso2zvhbzccmi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31moxivd66e6d6ieso2zvhbzccmi&count=2" alt="Spotify recently played"  />
   </a>
+</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/lucas-da-silva-junior-58b6a728b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="102" height="90" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
   </a>
   <a href="mailto:lucasdsjr2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="102" height="90" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="60" alt="gmail logo"  />
   </a>
 </div>
-
 <!-- Funcionalidade legal e bonita
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Dev%20Full%20Stack&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
