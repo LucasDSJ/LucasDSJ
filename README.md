@@ -47,3 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LucasDSJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=LucasDSJ&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Dev%20Full%20Stack&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
