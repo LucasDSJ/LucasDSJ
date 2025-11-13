@@ -54,10 +54,10 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31moxivd66e6d6ieso2zvhbzccmi&count=2" alt="Spotify recently played"  />
   </a>
   <a href="https://www.linkedin.com/in/lucas-da-silva-junior-58b6a728b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="102" height="90" alt="linkedin logo"  />
   </a>
-  <a href="lucasdsjr2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:lucasdsjr2005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="102" height="90" alt="gmail logo"  />
   </a>
 </div>
 
