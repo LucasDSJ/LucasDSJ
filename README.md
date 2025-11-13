@@ -1,11 +1,15 @@
 ## 👋 Olá! Eu sou Lucas
 
 <div align="center">
-  <a href="https://github.com/LucasDSJ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDSJ&layout=compact&theme=radical" alt="Top Langs" />
-  </a>
+  ## 👇 Este é o meu principal projeto
   <a href="https://github.com/LucasDSJ/Gerador-de-bio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasDSJ&repo=Gerador-de-bio&theme=radical" alt="Gerador de Bio" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/LucasDSJ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDSJ&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </div>
 
