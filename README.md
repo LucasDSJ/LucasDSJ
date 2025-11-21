@@ -1,7 +1,7 @@
-## 👋 Olá! Eu sou Lucas
+# 👋 Olá! Eu sou Lucas
 
-<h3 align="center">👇 Este é o meu principal projeto</h3>
-<div align="center" styles="margin-bottom: 20px">
+<h3>👇 Este é o meu principal projeto</h3>
+<div>
   <a href="https://github.com/LucasDSJ/Gerador-de-bio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasDSJ&repo=Gerador-de-bio&theme=radical" alt="Gerador de Bio" />
   </a>
@@ -9,26 +9,19 @@
 
 ##
 
-<h3 align="center">🛠 Linguagens e Ferramentas</h3>
-<div align="center">
+<h1>🛠 Linguagens e Ferramentas</h1>
+
+<div>
+
+  <!-- Web -->
+  <h3>🌐 Web</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" height="40" alt="materialize logo" />
@@ -36,12 +29,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
+  <img width="12" />
+
+  <!-- Linguagens -->
+  <h3>💻 Linguagens</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+
+  <h3>🖌️ Ferramentas de design</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+
+  <!-- Banco de Dados -->
+  <h3>🎲 Banco de Dados</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+
+  <!-- Ferramentas / Versionamento -->
+  <h3>⚙️Versionamento</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
+
 </div>
 
 ##
 
-<h3 align="center">📊 Algumas estatísticas:</h3>
-<div align="center">
+<h3>📊 Algumas estatísticas:</h3>
+<div>
   <a href="https://github.com/LucasDSJ">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDSJ&layout=compact&theme=radical" alt="Top Langs" />
   </a>
