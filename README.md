@@ -11,6 +11,9 @@
 
 <h1>🛠 Linguagens e Ferramentas</h1>
 
+### 📝 Atualmente aprendendo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="html logo"/>
+
 <div>
 
   <!-- Web -->
