@@ -12,7 +12,12 @@
 <h1>🛠 Linguagens e Ferramentas</h1>
 
 ### 📝 Atualmente aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="html logo"/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"/>
+  <img width="12" />
+</div>
 
 <div>
 
