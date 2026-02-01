@@ -9,9 +9,8 @@
 
 ##
 
-<h1>🛠 Linguagens e Ferramentas</h1>
+<h2>🛠 Linguagens e tecnologias que utilizo: </h2>
 
-<!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,24 +18,22 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React-Native](https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-7952B3?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Materialize](https://img.shields.io/badge/-Materialize-EB706F?style=for-the-badge&logo=material-design&logoColor=white)
--->
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-2596be?style=for-the-badge&logo=canva&logoColor=white)
 
-### 📝 Atualmente aprendendo:
+<!--
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"/>
-  <img width="12" />
-</div>
-
-<div>
-
-  <!-- Web -->
-  <h3>🌐 Web</h3>
+  <h3> Web</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo" />
@@ -53,7 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
   <img width="12" />
 
-  <!-- Linguagens -->
   <h3>💻 Linguagens</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -70,19 +66,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
 
-  <!-- Banco de Dados -->
   <h3>🎲 Banco de Dados</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height="40" alt="mongodb logo" />
   <img width="12" />
 
-  <!-- Ferramentas / Versionamento -->
   <h3>⚙️Versionamento</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
-
 </div>
-
+-->
 ##
 
 <h3>📊 Algumas estatísticas:</h3>
