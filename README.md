@@ -1,13 +1,21 @@
 # 👋 Olá! Eu sou Lucas
 
+- Desenvolvedor Web 💻
+- Técnico em Desenvolvimento de Sistemas pela ETEC 🎓
+- Estudante de Análise e Desenvolvimento de Sistemas pela FATEC 📖
+- Criando projetos para ampliar meu portfólio e conhecimentos 💡
+
+##
+
+<!-- Comentado momentaneamente por não estar disponível -->
+<!-- 
 <h3>👇 Este é o meu principal projeto</h3>
 <div>
   <a href="https://github.com/LucasDSJ/Gerador-de-bio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasDSJ&repo=Gerador-de-bio&theme=radical" alt="Gerador de Bio" />
   </a>
-</div>
-
-##
+</div> 
+-->
 
 <h2>🛠 Linguagens e tecnologias que utilizo: </h2>
 
@@ -78,12 +86,14 @@
 -->
 ##
 
+<!-- 
 <h3>📊 Algumas estatísticas:</h3>
 <div>
   <a href="https://github.com/LucasDSJ">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDSJ&layout=compact&theme=radical" alt="Top Langs" />
   </a>
-</div>
+</div> 
+-->
 
 <!-- 
 
