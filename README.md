@@ -40,6 +40,7 @@
 ![Canva](https://img.shields.io/badge/Canva-2596be?style=for-the-badge&logo=canva&logoColor=white)
 -->
 
+<div align=center>
 <h3>Web</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,7 +72,6 @@
 ![Canva](https://img.shields.io/badge/Canva-2596be?style=for-the-badge&logo=canva&logoColor=white)
 
 
-<div align=center>
 <h1>📊 Algumas estatísticas:</h1>
 <div>
   <a href="https://github.com/LucasDSJ">
